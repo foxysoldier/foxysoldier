@@ -3,4 +3,4 @@
 i learn coding and i love history (XXème century preferably)
 
 
-![bannièrebas](foxysoldier/foxysoldier/assets/bannièrebas.jpg)
+![bannièrebas](./assets/bannièrebas.jpg)
